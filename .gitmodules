@@ -1,0 +1,3 @@
+[submodule "bhav/project2"]
+	path = bhav/project2
+	url = https://github.com/phanivellanki/project2.git
